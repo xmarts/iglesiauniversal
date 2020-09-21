@@ -1,8 +1,3 @@
-[submodule "xmarts/multi-branch-13.0"]
-	path = xmarts/multi-branch-13.0
-	url = git@github.com:xmarts/multi-branch-13.0.git
-	branch = master
-
 [submodule "multi_branch"]
 	path = multi_branch
 	url = git@github.com:viernes/multi_branch.git
