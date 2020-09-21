@@ -2,3 +2,6 @@
 	path = multi_branch
 	url = git@github.com:viernes/multi_branch.git
 	branch = 13.0
+[submodule "portal-payments"]
+	path = portal-payments
+	url = https://github.com/xmarts/portal-payments.git
