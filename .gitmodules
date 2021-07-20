@@ -5,3 +5,6 @@
 [submodule "ks-dashboard-ninja"]
 	path = ks-dashboard-ninja
 	url = git@github.com:xmarts/ks-dashboard-ninja.git
+[submodule "purchase-subscriptions"]
+	path = purchase-subscriptions
+	url = git@github.com:xmarts/purchase-subscriptions.git
