@@ -11,3 +11,6 @@
 [submodule "multi-branch"]
 	path = multi-branch
 	url = git@github.com:xmarts/multi-branch.git
+[submodule "branch-extend-iuniversal"]
+	path = branch-extend-iuniversal
+	url = git@github.com:xmarts/branch-extend-iuniversal.git
