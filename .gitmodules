@@ -8,3 +8,6 @@
 [submodule "purchase-subscriptions"]
 	path = purchase-subscriptions
 	url = git@github.com:xmarts/purchase-subscriptions.git
+[submodule "multi-branch"]
+	path = multi-branch
+	url = git@github.com:xmarts/multi-branch.git
