@@ -17,3 +17,6 @@
 [submodule "portal-payments"]
 	path = portal-payments
 	url = git@github.com:xmarts/portal-payments.git
+[submodule "xmarts-property-management"]
+	path = xmarts-property-management
+	url = git@github.com:xmarts/xmarts-property-management.git
