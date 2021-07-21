@@ -14,3 +14,6 @@
 [submodule "branch-extend-iuniversal"]
 	path = branch-extend-iuniversal
 	url = git@github.com:xmarts/branch-extend-iuniversal.git
+[submodule "portal-payments"]
+	path = portal-payments
+	url = git@github.com:xmarts/portal-payments.git
