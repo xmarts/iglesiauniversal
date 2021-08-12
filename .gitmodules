@@ -11,3 +11,6 @@
 [submodule "xmarts-property-management"]
 	path = xmarts-property-management
 	url = git@github.com:xmarts/xmarts-property-management.git
+[submodule "purchase-requests"]
+	path = purchase-requests
+	url = git@github.com:xmarts/purchase-requests.git
